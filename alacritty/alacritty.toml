@@ -1,0 +1,32 @@
+[font]
+size = 13.0
+
+[[keyboard.bindings]]
+key = "Return"
+mods = "Command"
+action = "SpawnNewInstance"
+# Colors (Gruvbox Material Medium Dark)
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[window]
+opacity = 0.80
+
+
+#[window.dimensions]
+#columns = 133
+#lines = 40
+
